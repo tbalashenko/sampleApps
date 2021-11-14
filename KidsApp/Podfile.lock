@@ -1,0 +1,20 @@
+PODS:
+  - CHIPageControl/Aleppo (0.2)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - CHIPageControl/Aleppo
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - CHIPageControl
+    - SnapKit
+
+SPEC CHECKSUMS:
+  CHIPageControl: a787bf7205c9b7e7fbfc412be36c5e8636b68f86
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 58165414e1456f2519106a4152471e6887c0061c
+
+COCOAPODS: 1.11.2
